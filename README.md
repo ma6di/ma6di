@@ -15,7 +15,7 @@ My background in engineering gave me a strong foundation in **problem-solving, p
 
 ## 🛠️ Technical Skills
 
-- **Languages:** C, C++, Shell Scripting, Python (basic)  
+- **Languages:** C, C++, Shell Scripting
 - **Tools & Technologies:** Linux, Git, Bash, Makefile  
 - **Concepts:** Algorithms, Data Structures, Networking, System Administration, OOP  
 - **Soft Skills:** Peer Learning, Self-Directed Learning, Team Collaboration  
