@@ -44,7 +44,7 @@ My background in engineering gave me a strong foundation in **problem-solving, p
 
 Feel free to reach out or follow me on:  
 - [LinkedIn](https://www.linkedin.com/in/mahdi-cheraghali)
-- [email](mahdi.cheraghali@gmail.com)
+- mahdi.cheraghali@gmail.com
 ---
 
 ⭐️ *Always open to collaboration, learning, and building cool things together!*
