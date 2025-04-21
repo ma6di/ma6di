@@ -31,8 +31,6 @@ My background in engineering gave me a strong foundation in **problem-solving, p
 - **Philosophers** – Concurrency and threading (Dining Philosophers Problem in C)  
 - **NetPractice** – Networking and IP/Subnetting fundamentals  
 
-Check out pinned repositories below for code examples ⬇️  
-
 ---
 
 ## 📚 Education
@@ -45,9 +43,8 @@ Check out pinned repositories below for code examples ⬇️
 ## 📫 Let’s Connect!
 
 Feel free to reach out or follow me on:  
-- [LinkedIn](https://www.linkedin.com/in/mahdi-cheraghali)  
-- [GitHub](https://github.com/ma6di)  
-
+- [LinkedIn](https://www.linkedin.com/in/mahdi-cheraghali)
+- [email](mahdi.cheraghali@gmail.com)
 ---
 
 ⭐️ *Always open to collaboration, learning, and building cool things together!*
