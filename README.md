@@ -1,5 +1,5 @@
 
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Mahdi Cheraghli
 
 🎓 Former Civil Engineer turned Software Developer | 🧠 Lifelong Learner | 💻 42 Berlin Student  
 
