@@ -16,7 +16,7 @@ My background in engineering gave me a strong foundation in **problem-solving, p
 ## 🛠️ Technical Skills
 
 - **Languages:** C, C++, Shell Scripting
-- **Tools & Technologies:** Linux, Git, Bash, Makefile  
+- **Tools & Technologies:** Linux, Git, Bash, Makefile, Docker  
 - **Concepts:** Algorithms, Data Structures, Networking, System Administration, OOP  
 - **Soft Skills:** Peer Learning, Self-Directed Learning, Team Collaboration  
 
@@ -29,7 +29,9 @@ My background in engineering gave me a strong foundation in **problem-solving, p
 - **Webserv** – Lightweight HTTP server using C++ and OOP  
 - **Cub3D** – 3D graphical game using raycasting and the X11 library (C)  
 - **Philosophers** – Concurrency and threading (Dining Philosophers Problem in C)  
-- **NetPractice** – Networking and IP/Subnetting fundamentals  
+- **NetPractice** – Networking and IP/Subnetting fundamentals
+- **Inception** – A Docker orchestration project with the goal to set up a Docker-based infrastructure that runs
+                  NGINX, WordPress and MariaDB.
 
 ---
 
