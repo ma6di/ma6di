@@ -42,6 +42,7 @@ Analytical Thinking.
                   NGINX, WordPress and MariaDB.
 - **Webserv**: Developed a fully functional HTTP server in C++, supporting CGI, static file serving, chunked transfer
 encoding, and configuration parsing (Group project / In progress).
+- **JobTracker** - A modern, full-stack web application for tracking job applications, managing resumes, and organizing your job search process.
 ---
 
 ## 📚 Education
