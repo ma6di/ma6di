@@ -43,6 +43,7 @@ Analytical Thinking.
 - **Webserv**: Developed a fully functional HTTP server in C++, supporting CGI, static file serving, chunked transfer
 encoding, and configuration parsing (Group project / In progress).
 - **JobTracker** - A modern, full-stack web application for tracking job applications, managing resumes, and organizing your job search process. (Tech Stack: React, Vite, Tailwind CSS, Lucide React, Node.js, Express.js, Prisma, JWT, Bcrypt, PostgreSQL, Railway)
+- **Python To-Do CLI** - A comprehensive command-line to-do list application built with Python.
 ---
 
 ## 📚 Education
