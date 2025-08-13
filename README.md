@@ -25,12 +25,12 @@ Kubernetes
 ---
 ## Soft Skills:
 
-peer-to-peer learning, self-learning, adaptability, problem-solving, teamwork, independent work,
-analytical thinking.
+Peer-to-peer learning, Self-Learning, Adaptability, Problem-Solving, Teamwork, Independent Work,
+Analytical Thinking.
 
 ---
 
-## 🔧 42 Berlin Projects
+## 🔧 42 Berlin and Personal Projects
 
 - **Minishell** – UNIX shell with parsing, pipes, built-ins, and signals (C)  
 - **Push_swap** – Efficient sorting algorithm project (C)  
