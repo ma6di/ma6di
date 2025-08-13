@@ -48,6 +48,7 @@ encoding, and configuration parsing (Group project / In progress).
 
 - **42 Berlin** – Software Engineering (2024 – Present)  
 - **HTW Berlin & Metropolia UAS** – M.Eng. & M.Sc. in Construction & Real Estate Management (2022 – 2024)
+  
         - Project Management & Monitoring / LCA/ LCC / BIM / Feasibility Study / Tendering / Mathematic
 
 ---
