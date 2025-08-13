@@ -15,11 +15,18 @@ My background in engineering gave me a strong foundation in **problem-solving, p
 
 ## 🛠️ Technical Skills
 
-- **Languages:** C, C++, Shell Scripting
-- **Tools & Technologies:** Linux, Git, Bash, Makefile, Docker  
-- **Concepts:** Algorithms, Data Structures, Networking, System Administration, OOP  
-- **Soft Skills:** Peer Learning, Self-Directed Learning, Team Collaboration  
+• **Languages**: Python, C, C++, Bash, Shell
+• **Tools & Debugging**: Git, GitHub, Makefiles, GDB, LLDB, Valgrind, Sanitizers, Boost C++, Visual C++
+• **Core Concepts**: Algorithms, Data Structures, Code Optimization, Memory Management
+• **Systems & Networking**: Linux (Ubuntu/macOS), System Calls, TCP/IP (IPv4), Network Debugging, Docker,
+Kubernetes
+• **Software Engineering**: Modular Programming, Version Control, Code Review, Team Collaboration
 
+---
+##Soft Skills:
+
+peer-to-peer learning, self-learning, adaptability, problem-solving, teamwork, independent work,
+analytical thinking.
 ---
 
 ## 🔧 42 Berlin Projects
@@ -32,7 +39,6 @@ My background in engineering gave me a strong foundation in **problem-solving, p
 - **NetPractice** – Networking and IP/Subnetting fundamentals
 - **Inception** – A Docker orchestration project with the goal to set up a Docker-based infrastructure that runs
                   NGINX, WordPress and MariaDB.
-
 ---
 
 ## 📚 Education
