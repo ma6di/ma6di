@@ -40,6 +40,8 @@ analytical thinking.
 - **NetPractice** – Networking and IP/Subnetting fundamentals
 - **Inception** – A Docker orchestration project with the goal to set up a Docker-based infrastructure that runs
                   NGINX, WordPress and MariaDB.
+- **Webserv**: Developed a fully functional HTTP server in C++, supporting CGI, static file serving, chunked transfer
+encoding, and configuration parsing (Group project / In progress).
 ---
 
 ## 📚 Education
