@@ -23,10 +23,11 @@ Kubernetes
 - **Software Engineering**: Modular Programming, Version Control, Code Review, Team Collaboration
 
 ---
-##Soft Skills:
+## Soft Skills:
 
 peer-to-peer learning, self-learning, adaptability, problem-solving, teamwork, independent work,
 analytical thinking.
+
 ---
 
 ## 🔧 42 Berlin Projects
