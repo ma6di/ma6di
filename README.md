@@ -15,12 +15,12 @@ My background in engineering gave me a strong foundation in **problem-solving, p
 
 ## 🛠️ Technical Skills
 
-• **Languages**: Python, C, C++, Bash, Shell
-• **Tools & Debugging**: Git, GitHub, Makefiles, GDB, LLDB, Valgrind, Sanitizers, Boost C++, Visual C++
-• **Core Concepts**: Algorithms, Data Structures, Code Optimization, Memory Management
-• **Systems & Networking**: Linux (Ubuntu/macOS), System Calls, TCP/IP (IPv4), Network Debugging, Docker,
+- **Languages**: Python, C, C++, Bash, Shell
+- **Tools & Debugging**: Git, GitHub, Makefiles, GDB, LLDB, Valgrind, Sanitizers, Boost C++, Visual C++
+- **Core Concepts**: Algorithms, Data Structures, Code Optimization, Memory Management
+- **Systems & Networking**: Linux (Ubuntu/macOS), System Calls, TCP/IP (IPv4), Network Debugging, Docker,
 Kubernetes
-• **Software Engineering**: Modular Programming, Version Control, Code Review, Team Collaboration
+- **Software Engineering**: Modular Programming, Version Control, Code Review, Team Collaboration
 
 ---
 ##Soft Skills:
