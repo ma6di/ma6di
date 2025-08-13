@@ -42,7 +42,7 @@ Analytical Thinking.
 - **[Webserv](https://github.com/ma6di/Webserv)**: Developed a fully functional HTTP server in C++, supporting CGI, static file serving, chunked transfer
 encoding, and configuration parsing (Group project / In progress).
 - **[JobTracker](https://github.com/ma6di/JobTrackr)** - A modern, full-stack web application for tracking job applications, managing resumes, and organizing your job search process. (Tech Stack: React, Vite, Tailwind CSS, Lucide React, Node.js, Express.js, Prisma, JWT, Bcrypt, PostgreSQL, Railway)
-- **[Python To-Do CLI](https://github.com/ma6di/python-todo-cli)** - A comprehensive command-line to-do list application built with Python.
+- **[Python Modules](https://github.com/ma6di/Python-Learning-Modules)** - A comprehensive collection of Python projects built from scratch to master fundamental programming concepts.
 ---
 
 ## 📚 Education
