@@ -34,15 +34,15 @@ Analytical Thinking.
 
 - **[Minishell](https://github.com/ma6di/Minishell)** – UNIX shell with parsing, pipes, built-ins, and signals (C)  
 - **[Push_swap](https://github.com/ma6di/push_swap)** – Efficient sorting algorithm project (C)  
-- **[Cub3D](https://github.com/ma6di/Cub3D))** – 3D graphical game using raycasting and the X11 library (C)  
+- **[Cub3D](https://github.com/ma6di/Cub3D)** – 3D graphical game using raycasting and the X11 library (C)  
 - **[Philosophers](https://github.com/ma6di/Philosophers)** – Concurrency and threading (Dining Philosophers Problem in C)  
 - **NetPractice** – Networking and IP/Subnetting fundamentals
 - **[Inception](https://github.com/ma6di/Inception)** – A Docker orchestration project with the goal to set up a Docker-based infrastructure that runs
                   NGINX, WordPress and MariaDB.
 - **[Webserv](https://github.com/ma6di/Webserv)**: Developed a fully functional HTTP server in C++, supporting CGI, static file serving, chunked transfer
 encoding, and configuration parsing (Group project / In progress).
-- **[JobTracker](https://github.com/ma6di/JobTracker)** - A modern, full-stack web application for tracking job applications, managing resumes, and organizing your job search process. (Tech Stack: React, Vite, Tailwind CSS, Lucide React, Node.js, Express.js, Prisma, JWT, Bcrypt, PostgreSQL, Railway)
-- **[Python To-Do CLI]([https://github.com/ma6di/Python To-Do CLI](https://github.com/ma6di/python-todo-cli))** - A comprehensive command-line to-do list application built with Python.
+- **[JobTracker](https://github.com/ma6di/JobTrackr)** - A modern, full-stack web application for tracking job applications, managing resumes, and organizing your job search process. (Tech Stack: React, Vite, Tailwind CSS, Lucide React, Node.js, Express.js, Prisma, JWT, Bcrypt, PostgreSQL, Railway)
+- **[Python To-Do CLI](https://github.com/ma6di/python-todo-cli)** - A comprehensive command-line to-do list application built with Python.
 ---
 
 ## 📚 Education
