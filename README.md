@@ -7,9 +7,7 @@
 
 ## 🚀 About Me
 
-I hold two master’s degrees in **Construction & Real Estate Management** and am currently transitioning into the tech world through the **intensive, project-based program at School 42 Berlin**.
-
-My background in engineering gave me a strong foundation in **problem-solving, project management, and analytical thinking**—skills I now apply to **systems programming, algorithms, and backend development**.
+I am currently studying at **42 Berlin**, working on intensive, project-based programs in systems programming, algorithms, and backend development. I also hold a master’s degrees in Construction & Real Estate Management, which gave me a strong foundation in problem-solving, project management, and analytical thinking—skills I now apply to building real-world software projects.
 
 ---
 
