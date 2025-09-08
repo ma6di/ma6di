@@ -32,16 +32,16 @@ Analytical Thinking.
 
 ## 🔧 42 Berlin and Personal Projects
 
-- **[Minishell](https://github.com/ma6di/Minishell)** – UNIX shell with parsing, pipes, built-ins, and signals (C)  
-- **[Push_swap](https://github.com/ma6di/push_swap)** – Efficient sorting algorithm project (C)  
-- **[Cub3D](https://github.com/ma6di/Cub3D)** – 3D graphical game using raycasting and the X11 library (C)  
-- **[Philosophers](https://github.com/ma6di/Philosophers)** – Concurrency and threading (Dining Philosophers Problem in C)  
-- **NetPractice** – Networking and IP/Subnetting fundamentals
+- **[Minishell](https://github.com/ma6di/Minishell)** – UNIX shell with parsing, pipes, built-ins, and signals (C) (Group project).  
+- **[Push_swap](https://github.com/ma6di/push_swap)** – Efficient sorting algorithm project (C).  
+- **[Cub3D](https://github.com/ma6di/Cub3D)** – 3D graphical game using raycasting and the X11 library (Group project) (C).
+- **[Philosophers](https://github.com/ma6di/Philosophers)** – Concurrency and threading (Dining Philosophers Problem)  
+- **NetPractice** – Networking and IP/Subnetting fundamentals (C).
 - **[Inception](https://github.com/ma6di/Inception)** – A Docker orchestration project with the goal to set up a Docker-based infrastructure that runs
                   NGINX, WordPress and MariaDB.
 - **[Webserv](https://github.com/ma6di/Webserv)**: Developed a fully functional HTTP server in C++, supporting CGI, static file serving, chunked transfer
-encoding, and configuration parsing (Group project).
-- **[JobTracker](https://github.com/ma6di/JobTrackr)** - A modern, full-stack web application for tracking job applications, managing resumes, and organizing your job search process. (Tech Stack: React, Vite, Tailwind CSS, Lucide React, Node.js, Express.js, Prisma, JWT, Bcrypt, PostgreSQL, Railway)
+encoding, and configuration parsing (Group project) (C++).
+- **[JobTracker](https://github.com/ma6di/JobTrackr)** - A modern, full-stack web application for tracking job applications, managing resumes, and organizing your job search process. (Tech Stack: React, Vite, Tailwind CSS, Lucide React, Node.js, Express.js, Prisma, JWT, Bcrypt, PostgreSQL, Railway).
 - **[Python Modules](https://github.com/ma6di/Python-Learning-Modules)** - A comprehensive collection of Python projects built from scratch to master fundamental programming concepts.
 ---
 
