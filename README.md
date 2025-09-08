@@ -47,7 +47,12 @@ encoding, and configuration parsing (Group project) (C++).
 
 ## 📚 Education
 
-- **42 Berlin** – Software Engineering (2024 – Present)  
+- **42 Berlin** – Software Engineering (2024 – Present)
+  
+        - Peer-to-peer, project-based programming curriculum.
+        - Intensive training in C, C++, TypeScript, algorithms, system programming, networking, and OOP .
+        - Built multiple real-world projects (shell, HTTP server, 3D game, Docker-based infra).
+  
 - **HTW Berlin & Metropolia UAS** – M.Eng. & M.Sc. in Construction & Real Estate Management (2022 – 2024)
   
         - Project Management & Monitoring / LCA/ LCC / BIM / Feasibility Study / Tendering / Mathematic
