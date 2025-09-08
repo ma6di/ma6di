@@ -40,7 +40,7 @@ Analytical Thinking.
 - **[Inception](https://github.com/ma6di/Inception)** – A Docker orchestration project with the goal to set up a Docker-based infrastructure that runs
                   NGINX, WordPress and MariaDB.
 - **[Webserv](https://github.com/ma6di/Webserv)**: Developed a fully functional HTTP server in C++, supporting CGI, static file serving, chunked transfer
-encoding, and configuration parsing (Group project / In progress).
+encoding, and configuration parsing (Group project).
 - **[JobTracker](https://github.com/ma6di/JobTrackr)** - A modern, full-stack web application for tracking job applications, managing resumes, and organizing your job search process. (Tech Stack: React, Vite, Tailwind CSS, Lucide React, Node.js, Express.js, Prisma, JWT, Bcrypt, PostgreSQL, Railway)
 - **[Python Modules](https://github.com/ma6di/Python-Learning-Modules)** - A comprehensive collection of Python projects built from scratch to master fundamental programming concepts.
 ---
