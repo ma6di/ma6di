@@ -76,7 +76,7 @@ encoding, and configuration parsing (Group project) (C++).
 
 ## 📊 GitHub Stats & Activity
 
-![Mahdi’s Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ma6di&layout=compact&theme=radical)  ![GitHub Streak](https://streak-stats.demolab.com/?user=ma6di&theme=radical&hide_border=true)  
+![Mahdi’s Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ma6di&layout=compact&theme=radical&hide)      ![GitHub Streak](https://streak-stats.demolab.com/?user=ma6di&theme=radical&hide)  
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ma6di&theme=radical&hide_border=true)
 
 
