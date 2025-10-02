@@ -7,7 +7,14 @@
 
 ## 🚀 About Me
 
-I am currently studying at **42 Berlin**, working on intensive, project-based programs in systems programming, algorithms, and backend development. I also hold a master’s degrees in Construction & Real Estate Management, which gave me a strong foundation in problem-solving, project management, and analytical thinking—skills I now apply to building real-world software projects.
+I graduated from 42 Berlin, where I completed an intensive, project-based program in systems programming, algorithms, and backend development. I also hold a master’s degree in Construction & Real Estate Management, which gave me a strong foundation in problem-solving, project management, and analytical thinking—skills I now apply to building real-world software projects.
+
+---
+## 📫 Let’s Connect!
+
+Feel free to reach out or follow me on:  
+- [LinkedIn](https://www.linkedin.com/in/mahdi-cheraghali)
+- mahdi.cheraghali@gmail.com
 
 ---
 
@@ -24,8 +31,6 @@ I am currently studying at **42 Berlin**, working on intensive, project-based pr
 | **DevOps / Tools / Others** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Makefile](https://img.shields.io/badge/Makefile-3776AB?style=flat-square&logo=cmake&logoColor=white) |
 
 
-- **Languages**: Python, C, C++, Bash, Shell
-- **Tools & Debugging**: Git, GitHub, Makefiles, GDB, LLDB, Valgrind, Sanitizers, Boost C++, Visual C++
 - **Core Concepts**: Algorithms, Data Structures, Code Optimization, Memory Management
 - **Systems & Networking**: Linux (Ubuntu/macOS), System Calls, TCP/IP (IPv4), Network Debugging, Docker,
 Kubernetes
@@ -68,25 +73,18 @@ encoding, and configuration parsing (Group project) (C++).
 
 ---
 
-## 📫 Let’s Connect!
 
-Feel free to reach out or follow me on:  
-- [LinkedIn](https://www.linkedin.com/in/mahdi-cheraghali)
-- mahdi.cheraghali@gmail.com
+## 📊 GitHub Stats & Activity
+
+![Mahdi’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ma6di&show_icons=true&theme=radical)  
+![Mahdi’s Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ma6di&layout=compact&theme=radical)  
+
 ---
 
 ⭐️ *Always open to collaboration, learning, and building cool things together!*
 
 
 
-
-
-
-
-## 📊 GitHub Stats & Activity
-
-![Mahdi’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ma6di&show_icons=true&theme=radical)  
-![Mahdi’s Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ma6di&layout=compact&theme=radical)  
 
 
 
