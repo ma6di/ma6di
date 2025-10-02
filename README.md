@@ -85,7 +85,11 @@ encoding, and configuration parsing (Group project) (C++).
 </div>
 
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ma6di&theme=radical&hide_border=true)
+
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ma6di&theme=radical&hide_border=true" width="800" height="300"/>
+</div>
 
 
 ---
