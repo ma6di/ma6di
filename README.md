@@ -57,7 +57,7 @@ Peer-to-peer learning, Self-Learning, Adaptability, Problem-Solving, Teamwork, I
 * **[Webserv](https://github.com/ma6di/Webserv)** – Fully functional HTTP server in C++, supporting CGI, static files, chunked transfer encoding, and config parsing.
 * **[JobTracker](https://github.com/ma6di/JobTrackr)** – Full-stack web app for tracking job applications (React, Vite, Tailwind, Node.js, Prisma, PostgreSQL).
 * **[Python Modules](https://github.com/ma6di/Python-Learning-Modules)** – Collection of Python projects to master fundamentals.
-* **[ft_transcendence](https://github.com/ma6di/Transcendence)**: Developing a full-stack web application Pong Game using Node.js with Fastify, SQLite, and Tailwind CSS + TypeScript, JWT with 2FA, chat and centralized logging with the ELK stack and metrics instrumentation with Prometheus + Grafana(Team collaboration - In Progress).
+* **[ft_transcendence](https://github.com/ma6di/ft_transcendence)**: Developing a full-stack web application Pong Game using Node.js with Fastify, SQLite, and Tailwind CSS + TypeScript, JWT with 2FA, chat and centralized logging with the ELK stack and metrics instrumentation with Prometheus + Grafana(Team collaboration - In Progress).
 
 ---
 
