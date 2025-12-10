@@ -58,6 +58,7 @@ Peer-to-peer learning, Self-Learning, Adaptability, Problem-Solving, Teamwork, I
 * **[JobTracker](https://github.com/ma6di/JobTrackr)** – Full-stack web app for tracking job applications (React, Vite, Tailwind, Node.js, Prisma, PostgreSQL).
 * **[Python Modules](https://github.com/ma6di/Python-Learning-Modules)** – Collection of Python projects to master fundamentals.
 * **[ft_transcendence](https://github.com/ma6di/ft_transcendence)**: Developing a full-stack web application 3D Pong Game using Node.js with Fastify, SQLite, and Tailwind CSS + TypeScript, JWT with 2FA, Babylon.js and centralized logging with the ELK stack and metrics instrumentation with Prometheus + Grafana(Team collaboration - In Progress).
+* **[Flewi](https://github.com/ma6di/Flewi)**:Developed a full-stack language learning PWA using React and FastAPI, featuring interactive flashcards with text-to-speech, and a community forum. Engineered a scalable backend with PostgreSQL and Redis, implementing secure OAuth authentication and automated databasemigrations.
 
 ---
 
