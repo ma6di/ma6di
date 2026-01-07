@@ -1,6 +1,4 @@
-Perfect 👍 Here’s your updated version including **Elasticsearch** alongside **Kibana**, keeping the same clean badge style and section order:
 
----
 
 # 👋 Hi there, I'm Mahdi Cheraghli
 
