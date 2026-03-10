@@ -1,14 +1,20 @@
 
 
-# 👋 Hi there, I'm Mahdi Cheraghli
+# 👋 Hi, I'm Mahdi Cheraghli
 
-🎓 Former Civil Engineer turned Software Developer | 🧠 Lifelong Learner | 💻 42 Berlin Student
+💻 Software Developer | 🎓 42 Berlin  
+🔧 Backend, systems programming, and building practical tools  
+🌍 Based in Berlin
 
 ---
 
 ## 🚀 About Me
 
-I graduated from 42 Berlin, where I completed an intensive, project-based program in systems programming, algorithms, and backend development. I also hold a master’s degree in Construction & Real Estate Management, which gave me a strong foundation in problem-solving, project management, and analytical thinking—skills I now apply to building real-world software projects.
+I studied computer science at 42 Berlin, completing an intensive, project-based program focused on systems programming, algorithms, and backend development.
+
+Before transitioning into software engineering, I earned a Master’s degree in Construction & Real Estate Management, where I developed strong problem-solving, analytical, and project management skills.
+
+Today, I apply that structured thinking to building reliable software systems, exploring backend architecture, performance optimization, and practical tools that solve real-world problems.
 
 ---
 
