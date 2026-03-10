@@ -20,9 +20,6 @@ Feel free to reach out or follow me on:
 * [mahdi.cheraghali@gmail.com](mailto:mahdi.cheraghali@gmail.com)
 
 ---
-Here is an updated version with **React**, **Redis**, and **FastAPI** added cleanly and consistently:
-
----
 
 ## 🛠️ Technical Skills
 
