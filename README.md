@@ -88,8 +88,6 @@ Peer-to-peer learning, Self-Learning, Adaptability, Problem-Solving, Teamwork, I
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma6di&layout=compact&theme=radical&hide_border=true" height="200px"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com/?user=ma6di&theme=radical&hide_border=true" height="200px"/>
 
 </div>
